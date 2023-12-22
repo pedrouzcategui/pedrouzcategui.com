@@ -35,10 +35,12 @@
 }
 
 .article code {
+  width: 100%;
   text-wrap: wrap;
 }
 
 .article pre {
+  width: 100%;
   line-height: 1.2em;
   color: white;
   background: rgb(0, 0, 36);
