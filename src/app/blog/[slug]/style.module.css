@@ -34,6 +34,10 @@
   text-wrap: wrap;
 }
 
+.article code {
+  text-wrap: wrap;
+}
+
 .article pre {
   line-height: 1.2em;
   color: white;
