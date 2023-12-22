@@ -42,7 +42,7 @@ export default async function Post({ params }: { params: { slug: string } }) {
     const pubDate = getFormattedDate(date)
 
     return (
-        <main className="w-3/4 px-6 prose prose-xl prose-slate dark:prose-invert mx-auto">
+        <main className="md:w-3/4 px-6 prose prose-xl prose-slate dark:prose-invert mx-auto">
             <div>
                 <h1 className="text-3xl mt-4 mb-0 text-green-500 font-bold">{title}</h1>
                 <p className="mt-0 mb-5">
