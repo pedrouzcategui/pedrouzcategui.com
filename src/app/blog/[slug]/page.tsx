@@ -43,8 +43,8 @@ export default async function Post({ params }: { params: { slug: string } }) {
 
     return (
         <main>
-            <div className="prose prose-xl prose-slate dark:prose-invert mx-auto">
-                <div className="py-5 mx-auto md:w-3/4">
+            <div>
+                <div className="p-5 md:w-3/4">
                     <h1 className="text-5xl mb-0 text-green-500 font-bold">{title}</h1>
                     <p className="mt-0">
                         {pubDate}
@@ -52,7 +52,7 @@ export default async function Post({ params }: { params: { slug: string } }) {
                     <Link href="/blog">← Back to blog posts</Link>
                 </div>
                 <div className="bg-white">
-                    <article className={`${styles.article} py-5 mx-auto md:w-3/4 text-black`}>
+                    <article className={`${styles.article} p-5 text-black`}>
                         <section dangerouslySetInnerHTML={{ __html: contentHtml }} />
                     </article>
                 </div>
