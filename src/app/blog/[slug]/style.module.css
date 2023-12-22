@@ -33,6 +33,7 @@
 
 .article pre {
   line-height: 1.2em;
+  color: white;
   background: rgb(0, 0, 36);
   background-size: 2.4em 2.4em;
   background-origin: content-box;
