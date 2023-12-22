@@ -44,12 +44,11 @@
   line-height: 1.2em;
   color: white;
   background: rgb(0, 0, 36);
-  background-size: 2.4em 2.4em;
   background-origin: content-box;
   text-wrap: wrap;
 
   /* some extra styles*/
-  padding: 20px 20px;
+  padding: 10px;
   text-align: justify;
   font-family: calibri, arial, sans-serif;
   margin-bottom: 20px;
@@ -57,6 +56,6 @@
 
 @media (max-width: 600px) {
   .article pre {
-    font-size: 12px;
+    font-size: 6px;
   }
 }
