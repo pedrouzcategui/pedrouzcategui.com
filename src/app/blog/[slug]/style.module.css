@@ -1,0 +1,46 @@
+.article p {
+  margin-bottom: 20px;
+}
+
+.article strong {
+  color: green;
+}
+
+.article h2 {
+  font-size: 1.5rem;
+  margin-top: 40px;
+  font-weight: 600;
+  color: rgb(12, 155, 12);
+}
+
+.article h3 {
+  font-size: 1.4rem;
+  margin-top: 40px;
+  text-decoration: underline;
+}
+
+.article h4 {
+  font-size: 1.2rem;
+  margin-top: 40px;
+  text-decoration: underline;
+}
+
+.article ul {
+  list-style-type: disc;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.article pre {
+  line-height: 1.2em;
+  background: rgb(0, 0, 36);
+  background-size: 2.4em 2.4em;
+  background-origin: content-box;
+  text-wrap: wrap;
+
+  /* some extra styles*/
+  padding: 20px 20px;
+  text-align: justify;
+  font-family: calibri, arial, sans-serif;
+  margin-bottom: 20px;
+}
