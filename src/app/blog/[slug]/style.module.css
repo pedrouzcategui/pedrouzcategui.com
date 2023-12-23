@@ -1,16 +1,20 @@
 .article p {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
+  font-weight: 400;
+  color: #bbb;
 }
 
-.article strong {
-  color: green;
+.article a {
+  font-weight: 600;
+  color: lightblue;
+  text-decoration: underline;
 }
 
 .article h2 {
   font-size: 1.5rem;
   margin-top: 40px;
   font-weight: 600;
-  color: rgb(12, 155, 12);
+  margin-bottom: 10px;
 }
 
 .article h3 {
@@ -25,6 +29,11 @@
   text-decoration: underline;
 }
 
+.article ol {
+  list-style-type: decimal;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
 .article ul {
   list-style-type: disc;
   margin-left: 20px;
@@ -43,7 +52,7 @@
   width: 100%;
   line-height: 1.2em;
   color: white;
-  background: rgb(0, 0, 36);
+  background: rgb(0, 0, 0);
   background-origin: content-box;
   text-wrap: wrap;
 

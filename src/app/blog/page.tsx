@@ -7,7 +7,6 @@ export const metadata = {
 
 export default function NamePage() {
     const posts = getSortedPostsData();
-    console.log(posts)
     return (
         <div>
             <h1>Blog posts</h1>

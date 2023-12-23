@@ -13,7 +13,7 @@ The FLUX architecture is something that Facebook software engineers talked about
 
 Then they went initially with this architecture, which consisted in a store, dispatch, views and actions.
 
-Learn more here: http://fluxxor.com/what-is-flux.html
+[Learn more here: http://fluxxor.com/what-is-flux.html](http://fluxxor.com/what-is-flux.html)
 
 ## What is a state manager?
 
@@ -296,9 +296,9 @@ export const store = configureStore({
 
 #### Further Resources:
 
-- **Redux FAQ:** https://redux.js.org/faq
-- **Egghead.io Free Redux Course by Dan Abramov:** https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867
-- **Educative.io Free Redux Course:** https://www.educative.io/courses/practical-redux/introduction-to-the-course
-- **Blog Series about Redux:** https://blog.isquaredsoftware.com/series/practical-redux/
-- **Tao of Redux Part 1:** https://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/
-- **Tao of Redux Part 2:** https://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-2/
+- Redux FAQ: [https://redux.js.org/faq](https://redux.js.org/faq)
+- Egghead.io Free Redux Course by Dan Abramov: [https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)
+- Educative.io Free Redux Course: [https://www.educative.io/courses/practical-redux/introduction-to-the-course](https://www.educative.io/courses/practical-redux/introduction-to-the-course)
+- Blog Series about Redux: [https://blog.isquaredsoftware.com/series/practical-redux/](https://blog.isquaredsoftware.com/series/practical-redux/)
+- Tao of Redux Part 1: [https://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/](https://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/)
+- Tao of Redux Part 2: [https://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-2/](https://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-2/)
