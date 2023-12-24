@@ -33,7 +33,7 @@ export default function Page() {
         <div className="w-4/5 mx-auto flex items-center justify-between">
           <div className="p-5 flex-1">
             <h2 className="text-4xl font-semibold mb-4">Who am I</h2>
-            <p className="mb-2">I'm a Latin American living in New Zealand, I make money through software, but my biggest passion are robotics. I'm on a mission to make quality education a right of citizens in my country, and to create better anti-corruption systems.</p>
+            <p className="mb-2">I&apos;m a Latin American living in New Zealand, I make money through software, but my biggest passion are robotics. I&apos;m on a mission to make quality education a right of citizens in my country, and to create better anti-corruption systems.</p>
             <p>I create businesses and publish free courses on Youtube.</p>
             <p>I speak Spanish, English, French and Portuguese.</p>
           </div>
