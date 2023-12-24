@@ -55,7 +55,7 @@ export default function Page() {
             <div className="border-cyan-600 border-2 rounded-md p-5 flex-1 hover:bg-slate-950 cursor-pointer transition-colors">
               <div className="w-full h-[200px]"></div>
               <h2 className="text-2xl font-semibold mb-2">Anubis</h2>
-              <p className="mb-4">Programming language I build to learn more about programming languages. I build a videogame called "Megaman X Corrupted" with it.</p>
+              <p className="mb-4">Programming language I build to learn more about programming languages. I build a videogame called &quot;Megaman X Corrupted&quot; with it.</p>
               <p>Tech Stack: Anubis, C.</p>
             </div>
           </div>
