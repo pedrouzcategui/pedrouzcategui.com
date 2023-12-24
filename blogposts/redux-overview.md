@@ -233,7 +233,8 @@ const createStore = (reducer) => {
     };
   };
 
-  // This will be executed once, when the createStore() function is created.
+  // This will be executed once
+  // When createStore() is created.
   dispatch({});
 
   return { getState, dispatch, subscribe };
