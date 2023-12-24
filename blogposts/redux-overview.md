@@ -168,7 +168,11 @@ const counter = (state = 0, action) => {
   }
 };
 // Supposing we have redux installed via NPM
-const store = createStore(counter); // We pass the reducer, remember a reducer is a function that receives a state and an action, and it returns a new state object
+const store = createStore(counter);
+// We pass the reducer
+// Remember a reducer is a function
+// That receives a state and an action,
+// and it returns a new state object
 ```
 
 ## What does it mean to subscribe?
