@@ -52,7 +52,7 @@ export default async function Post({ params }: { params: { slug: string } }) {
                         {pubDate}
                     </p>
                     <p>Author: Pedro Uzcategui</p>
-                    <p>Follow me on Twitter: <a target="_blank" href="https://twitter.com/PedroUzctegui4">https://twitter.com/PedroUzctegui4</a></p>
+                    <p>Follow me on Twitter: <a target="_blank" href="https://twitter.com/PedroUzctegui4">Here</a></p>
                     <div className="mt-5">
                         <hr />
                     </div>
