@@ -47,7 +47,7 @@ export default async function Post({ params }: { params: { slug: string } }) {
             <div>
                 <div className="p-5 w-3/4 mx-auto">
                     <Link href="/blog">← Back to blog posts</Link>
-                    <h1 className="text-6xl mt-5 mb-5  font-bold">{title}</h1>
+                    <h1 className="text-4xl mt-5 mb-5  font-bold">{title}</h1>
                     <p className="mt-0">
                         {pubDate}
                     </p>
