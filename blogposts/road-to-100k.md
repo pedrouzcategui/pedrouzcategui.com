@@ -66,4 +66,4 @@ My goals for this next year are:
 Other non-specific goals are
 
 - Apply for the Diversity Visa Lottery on May 4th.
-- Go to live alone
+- Buy an apartment
