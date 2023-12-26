@@ -51,3 +51,19 @@ This upcoming year; 2024; I'll be learning the following things (not specific or
 4. **Low Level Programming (with C/C++):** [I'll be following this list of projects](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#cc)
 5. **Math (College Math 2 to 5):** I want to understand AI, so I need solid Math foundations.
 6. **Advanced CSS + Animations:** The only way I'll be able to be better than the competition, is by learning more techniques.
+
+## 12/25/2023
+
+Happy Christmas!
+
+My goals for this next year are:
+
+1. Get a 5k job or a business to make 5k per month.
+2. Learn to Read, Write, Speak and Understand French
+3. Learn Math from 1 to 5
+4. Finish my T.S.U and continue with the rest of Engineering online in other university.
+
+Other non-specific goals are
+
+- Apply for the Diversity Visa Lottery on May 4th.
+- Go to live alone
