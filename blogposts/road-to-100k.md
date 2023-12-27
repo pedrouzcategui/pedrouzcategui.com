@@ -59,11 +59,12 @@ Happy Christmas!
 My goals for this next year are:
 
 1. Get a 5k job or a business to make 5k per month.
-2. Learn to Read, Write, Speak and Understand French
-3. Learn Math from 1 to 5
-4. Finish my T.S.U and continue with the rest of Engineering online in other university.
+2. Take seriously my fitness, food and health.
+3. Learn to Read, Write, Speak and Understand French.
+4. Learn Math from 1 to 5.
+5. Finish my T.S.U and continue with the rest of Engineering online in other university.
 
 Other non-specific goals are
 
 - Apply for the Diversity Visa Lottery on May 4th.
-- Buy an apartment
+- Buy an apartment or probably just invest that in courses so I can make more money
