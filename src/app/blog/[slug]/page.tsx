@@ -43,9 +43,9 @@ export default async function Post({ params }: { params: { slug: string } }) {
     const pubDate = getFormattedDate(date)
 
     return (
-        <main className="bg-gradient-to-r from-black via-slate-950 to-gray-950 text-white">
-            <div>
-                <div className="p-5 w-3/4 mx-auto">
+        <main className="min-h-screen bg-gradient-to-r from-black via-slate-950 to-gray-950 text-white">
+            <div className="w-2/4 mx-auto p-5">
+                <div>
                     <Link href="/blog">← Back to blog posts</Link>
                     <h1 className="text-4xl mt-5 mb-5  font-bold">{title}</h1>
                     <p className="mt-0">
@@ -58,7 +58,7 @@ export default async function Post({ params }: { params: { slug: string } }) {
                     </div>
                 </div>
                 <div>
-                    <article className={`${styles.article} w-3/4 mx-auto p-5`}>
+                    <article className={`${styles.article}`}>
                         <section dangerouslySetInnerHTML={{ __html: contentHtml }} />
                     </article>
                 </div>

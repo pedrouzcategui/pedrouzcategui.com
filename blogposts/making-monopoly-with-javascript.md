@@ -1,6 +1,6 @@
 ---
 title: "Making Monopoly with JavaScript"
-date: "27/12/2023"
+date: "12-27-2023"
 ---
 
 ## What you will need:

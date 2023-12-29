@@ -21,10 +21,9 @@ export default function Page() {
           <div className="h-[500px] flex items-center justify-between">
             <div className="p-5">
               <h1 className="text-5xl font-bold mb-4">Pedro Uzcategui</h1>
-              <p>Electronics + Systems Engineer, MS. Robotics, MS. CyberSecurity.</p>
+              <p>Software Engineer</p>
             </div>
             <div className="p-5">
-              fdasfdas
             </div>
           </div>
         </div>
@@ -33,9 +32,7 @@ export default function Page() {
         <div className="w-4/5 mx-auto flex items-center justify-between">
           <div className="p-5 flex-1">
             <h2 className="text-4xl font-semibold mb-4">Who am I</h2>
-            <p className="mb-2">I am a Latin American living in New Zealand, I make money through software, but my biggest passion are robotics. I am on a mission to make quality education a right of citizens in my country, and to create better anti-corruption systems.</p>
-            <p>I create businesses and publish free courses on Youtube.</p>
-            <p>I speak Spanish, English, French and Portuguese.</p>
+            <p className="mb-2">Latin American living in New Zealand, coding for fun and profit.</p>
           </div>
           <div className="flex-1">
             <Image className="mx-auto" width={300} src={pedro_image} alt="Pedro Uzcategui" />

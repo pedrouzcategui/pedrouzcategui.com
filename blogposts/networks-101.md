@@ -1,6 +1,6 @@
 ---
 title: "Networks 101"
-date: "27/12/2023"
+date: "12-27-2023"
 ---
 
 ## What is a Network
