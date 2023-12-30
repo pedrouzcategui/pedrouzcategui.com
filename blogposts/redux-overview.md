@@ -286,6 +286,12 @@ export const store = configureStore({
 });
 ```
 
+## Middlewares
+
+## Thunks
+
+## Async in Redux
+
 ### Advanced Topics:
 
 - Action Creators
