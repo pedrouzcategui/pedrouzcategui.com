@@ -29,7 +29,7 @@ export default function Page() {
         </div>
       </div>
       <div className="bg-gradient-to-r from-black to-slate-950 py-12">
-        <div className="w-4/5 mx-auto flex items-center justify-between">
+        <div className="w-4/5 mx-auto flex flex-col xl:flex-row items-center justify-between">
           <div className="p-5 flex-1">
             <h2 className="text-4xl font-semibold mb-4">Who am I</h2>
             <p className="mb-2">Latin American living in New Zealand, coding for fun and profit.</p>
@@ -42,10 +42,10 @@ export default function Page() {
       <div className="w-4/5 mx-auto py-12">
         <div className="p-5">
           <h2 className="text-2xl font-semibold mb-4">Projects</h2>
-          <div className="flex gap-8 mb-8">
+          <div className="flex flex-col xl:flex-row gap-8 mb-8">
             <div className="border-cyan-600 border-2 rounded-md p-5 flex-1 hover:bg-slate-950 cursor-pointer transition-colors">
               <div className="w-full h-[200px]"></div>
-              <h2 className="text-2xl font-semibold mb-2">asesoriadevisaamericana.com</h2>
+              <h2 className="text-md xl:text-2xl font-semibold mb-2">asesoriadevisaamericana.com</h2>
               <p className="mb-4">This is one of my businesses, I do employ 10 lawyers and we help more than 1000 families to apply for their visas in the US.</p>
               <p>Tech Stack: Next.js, Redux Toolkit, PostgreSQL, Go.</p>
             </div>
