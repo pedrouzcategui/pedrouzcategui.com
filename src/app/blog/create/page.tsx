@@ -2,6 +2,7 @@
 export default function BlogCreatePage() {
     return (
         <div>
+            Her goes the markdown
         </div>
     );
 }
